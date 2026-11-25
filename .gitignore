@@ -1,0 +1,8 @@
+/target/
+/snapshots/
+/EpicCleaner.exe
+/EpicCleaner-Windows-x64.zip
+/data/
+/portable
+/.env
+/.env.*
